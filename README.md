@@ -5,7 +5,7 @@
 
 Este projeto faz parte da escola Front-end e tem como objetivo ensinar a construção de um fluxo de cadastro e autenticação em React com Typescript, utilizando elementos das bibliotecas MUI, MobX e React-Router-Dom. 
 
-## Funcionalidades do projeto
+## Funcionalidades do projeto 
 
 O projeto contará com o desenvolvimento de:
 
