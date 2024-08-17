@@ -1,7 +1,7 @@
 
 ![React com Typescript: Desenvolva um sistema de cadastro e autenticação](https://imgur.com/AiM33zX.png)
 
-# React com Typescript: Desenvolva um sistema de cadastro e autenticação
+# React com Typescript: Desenvolva um sistema de cadastro e autenticação:
 
 Este projeto faz parte da escola Front-end e tem como objetivo ensinar a construção de um fluxo de cadastro e autenticação em React com Typescript, utilizando elementos das bibliotecas MUI, MobX e React-Router-Dom. 
 
